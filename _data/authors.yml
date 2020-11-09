@@ -1,5 +1,5 @@
 # Add Authors here
-johndoe:
+rajsingh:
    name: Raj Singh Rajpoot
    username: Rajsingh92
    site: rajsingh92.github.io
@@ -10,7 +10,7 @@ johndoe:
       - title: "github"
         url: "https://github.com/Rajsingh92"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/raj-rajpoot-13b98b158/"
+        url: "https://www.linkedin.com/in/raj-singh-rajpoot-13b98b158"
       - title: "facebook"
         url: "https://www.facebook.com/profile.php?id=100008207133946"
       - title: "twitter"
@@ -19,4 +19,3 @@ johndoe:
         url: "https://www.instagram.com/ig_rsrp/"
       - title: "medium"
         url: "https://medium.com/rajsinghrajpoot263"
-
