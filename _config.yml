@@ -46,7 +46,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: mymedidocs.jpg
+              - project_thumbnail: mean.jpg
                 project_title: MyMedidocs
                 project_description: A Platform built for Solving Hospital Managemnet Problems
                 project_url: https://mymedidocs-e5181.firebaseapp.com
@@ -57,7 +57,7 @@ author_project_details:
 twitter_username: Rajsing00335252
 github_username:  Rajsingh92
 facebook_username: profile.php?id=100008207133946
-linkedin_username: raj-rajpoot-13b98b158/
+linkedin_username: raj-singh-rajpoot-13b98b158
 instagram_username: ig_rsrp
 medium_username: rajsinghrajpoot263
 
