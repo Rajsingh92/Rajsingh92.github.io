@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
+title: Welcome to devlopr-jekyll !
+summary: Getting Started using devlopr-jekyll
+author: rajsingh
 date: '2019-05-22 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: >-
+  devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll,
+  devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
+published: true
 ---
 
 
@@ -36,4 +39,3 @@ function sum (num1,num2){
 }
 var result = sum(a,b);
 ```
-
